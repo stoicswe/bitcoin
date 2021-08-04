@@ -1,2 +1,2 @@
 # bitcoin
-The earliest accessible commit to github for Bitcoin Core. Code has been replicated here for reference in order to work on the Yggdrasil Blockchain.
+The earliest accessible commit to github for Bitcoin Core. Code has been replicated here for reference in order to work on the Yggdrasil Blockchain. Written in C/C++. This project was taken from commit hash: 4405b78d6059e536c36974088a8ed4d9f0f29898 in the [bitcoin core](https://github.com/bitcoin/bitcoin) repository. This is in no way maintained and serves only as a reference to the earlies commit to the bitcoin repo.
